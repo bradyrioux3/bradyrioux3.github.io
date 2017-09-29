@@ -1,0 +1,23 @@
+h1 { color: orange }
+
+body {
+    background: lightgoldenrodyellow;
+    color: darkgray;
+    font-size: 14pt; 
+    font-family: 'Nunito', sans-serif; }
+    
+    h1 { font-size: 250%;
+         font-weight: bold;
+         color: navy;
+}
+
+h2 { font-size: 150%; font-styles: italic;
+     text-decoration: underline;
+}
+
+nav li { display: inline-block;
+         border: 2px solid black;
+         padding: 20px;
+         margin: 25px;
+         background: white; }
+nav li:hover {background: yellow; }
