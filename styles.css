@@ -2,17 +2,22 @@ h1 { color: orange }
 
 body {
     background: lightgoldenrodyellow;
-    color: darkgray;
+    color: black;
     font-size: 14pt; 
     font-family: 'Nunito', sans-serif; }
     
     h1 { font-size: 250%;
          font-weight: bold;
-         color: navy;
+         color: navy;        
 }
 
 h2 { font-size: 150%; font-styles: italic;
      text-decoration: underline;
+     color: limegreen;
+}
+
+h4 { font-size: 12pt;
+     color: gray;
 }
 
 nav li { display: inline-block;
